@@ -13,6 +13,9 @@
   "dependencies": {
     "@coral-xyz/anchor": "^0.32.1",
     "@tailwindcss/vite": "^4.1.17",
+    "@wallet-ui/react": "^2.1.0",
+    "@wallet-ui/react-gill": "^2.1.0",
+    "@wallet-ui/tailwind": "^2.1.0",
     "gill": "^0.14.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
