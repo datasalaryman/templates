@@ -6,7 +6,7 @@ resolution = true
 skip-lint = false
 
 [programs.localnet]
-one_page = "5DJmVhdV8Sx98ZK2KKrgT5DGzHdc8w68Ch9fUqbK5mDb"
+dirty = "5DJmVhdV8Sx98ZK2KKrgT5DGzHdc8w68Ch9fUqbK5mDb"
 
 [registry]
 url = "https://api.apr.dev"

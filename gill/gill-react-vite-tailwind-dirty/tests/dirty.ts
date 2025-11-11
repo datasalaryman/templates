@@ -1,12 +1,12 @@
 import * as anchor from "@coral-xyz/anchor";
 import { Program } from "@coral-xyz/anchor";
-import { OnePage } from "../target/types/one_page";
+import { Dirty } from "../target/types/dirty";
 
-describe("one-page", () => {
+describe("dirty", () => {
   // Configure the client to use the local cluster.
   anchor.setProvider(anchor.AnchorProvider.env());
 
-  const program = anchor.workspace.onePage as Program<OnePage>;
+  const program = anchor.workspace.dirty as Program<Dirty>;
 
   it("Is initialized!", async () => {
     // Add your test here.

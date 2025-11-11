@@ -1,12 +1,12 @@
 [package]
-name = "one-page"
+name = "dirty"
 version = "0.1.0"
 description = "Created with Anchor"
 edition = "2021"
 
 [lib]
 crate-type = ["cdylib", "lib"]
-name = "one_page"
+name = "dirty"
 
 [features]
 default = []
